@@ -1,4 +1,4 @@
-name: "Podcast Generator Practice"
+name: "Podcast Generator Practice from Harrison Le"
 author: "Harrison Le"
 description: "Generates a feed for a podcast from a YAML file"
 runs: 
